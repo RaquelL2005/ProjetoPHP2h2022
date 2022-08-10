@@ -19,11 +19,3 @@ echo "OLÁ MUNDO";
 
 </body>
 </html>
-
-
-<?php
-
-echo "OLÁ MUNDO";
-
-
-?>
